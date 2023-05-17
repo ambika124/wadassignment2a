@@ -1,0 +1,3 @@
+subject:web application development
+theory as well as practicals
+marks:100
